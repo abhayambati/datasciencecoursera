@@ -1,9 +1,0 @@
-## This is a markdown file
-
-* Sunday
-* Monday
-* Tuesday
-* Wednesday
-* Thursday
-* Friday
-* Saturday
